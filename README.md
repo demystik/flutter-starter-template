@@ -66,7 +66,7 @@ of hardcoded colors, dark mode works automatically. Just toggle
 ## 🏁 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/flutter_design_system_starter.git
+git clone https://github.com/demystik/flutter_design_system_starter.git
 cd flutter_design_system_starter
 flutter pub get
 flutter run
